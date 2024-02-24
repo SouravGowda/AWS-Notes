@@ -39,6 +39,8 @@
 
 - Install CloudWatch Agent On EC2
 
+Ref: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/verify-CloudWatch-Agent-Package-Signature.html
+
 ```
 
 wget https://amazoncloudwatch-agent-ap-south-1.s3.ap-south-1.amazonaws.com/amazon_linux/amd64/latest/amazon-cloudwatch-agent.rpm

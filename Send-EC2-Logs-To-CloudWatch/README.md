@@ -161,3 +161,5 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-config-wizard
 ```
 
 - Goto AWS CloudWatch and Check Log Group Status
+
+![cloudwatch-log](image.png)

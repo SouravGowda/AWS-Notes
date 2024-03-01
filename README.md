@@ -1,3 +1,1 @@
 # AWS-Notes
-
-# Terraform Notes

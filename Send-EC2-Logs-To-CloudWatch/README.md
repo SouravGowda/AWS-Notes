@@ -1,5 +1,4 @@
 # Send EC2 Logs To CloudWatch
-# Test Word for git commands
 
 > **Steps To Follow**
 
